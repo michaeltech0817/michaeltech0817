@@ -1,10 +1,12 @@
 <h1 align="center">
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
- Hi, Welcome to my GitHub profile 
+ Hi, Thanks for your visit!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<!--
 <img alt="full stack developer" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/Screenshot_2.png" width="100%" />
+-->
 
 <div align="center">
 <!--
