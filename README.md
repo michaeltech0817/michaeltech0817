@@ -6,6 +6,7 @@
 
 <!--
 <img alt="full stack developer" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/Screenshot_2.png" width="100%" />
+let go without review!
 -->
 
 <div align="center">
