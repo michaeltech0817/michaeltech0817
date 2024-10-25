@@ -6,7 +6,6 @@
 
 <!--
 <img alt="full stack developer" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/Screenshot_2.png" width="100%" />
-you are contribuding to create the first pull request!
 -->
 
 <div align="center">
